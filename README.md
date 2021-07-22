@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Vikatar Patotski.
+I'm Vikatar Patotski - Oracle Certified Professional: Java SE 11 Developer ☕, Linux enthusiast, and Performance Magician 🧝🏻
